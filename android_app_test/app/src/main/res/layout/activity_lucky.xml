@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/luckyNumberLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="#313753"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/luckyNumberText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#050404"
+        android:textAlignment="center"
+        android:textColor="#B7CCF0"
+        android:textSize="49sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

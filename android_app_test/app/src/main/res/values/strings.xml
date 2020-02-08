@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="mainLabel">Get Your Lucky Number</string>
+    <string name="nameHint">Enter Name</string>
+    <string name="dobHint">Enter D.O.B. in DD/MM/YYYY</string>
+    <string name="calBtn">Calculate Lucky Number</string>
+    <string name="invalidDateError">Invalid date! Please enter D.O.B. as DD/MM/YYYY</string>
+
+</resources>
